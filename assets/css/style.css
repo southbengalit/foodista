@@ -2216,7 +2216,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     margin-top: 15px;
 }
 
-.coupon_code_area_booking {
+.coupon_code_area_order {
     padding-top: 30px;
 }
 
@@ -2224,11 +2224,11 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     padding-top: 20px;
 }
 
-.order_booking_amount_area ul {
+.order_order_amount_area ul {
     padding-top: 15px;
 }
 
-.order_booking_amount_area ul li {
+.order_order_amount_area ul li {
     display: flex;
     justify-content: space-between;
     padding-bottom: 6px;
@@ -2236,7 +2236,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     font-size: 16px;
 }
 
-.order_booking_amount_area ul li:last-child {
+.order_order_amount_area ul li:last-child {
     border-bottom: 1px solid #dadada
 }
 
